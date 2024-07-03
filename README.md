@@ -40,4 +40,4 @@ In the fast-paced world of human resources, the initial resume screening process
   
 * **Enhanced Decision-Making:** Provides HR professionals with data-driven insights, enabling more informed decision-making and improving the quality of hires.
 
-**Explore and try out this application for yourself on my Hugging Face Spaces here:**   https://huggingface.co/spaces/Abhishek0323/ResumeInsight
+
